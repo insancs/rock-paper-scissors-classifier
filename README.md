@@ -1,4 +1,7 @@
-<h1 align="center"> Rock-Paper_Scissors Classifier </h1>
+<h1 align="center"> Rock-Paper-Scissors Classifier </h1>
+<p align="center">
+    <img src="images/rps.png" width="600">
+</p>
 
 ## Overview
 This project is an image classification application using Tensorflow and Keras. This dataset contains images of hand gestures from the game Rock-Paper-Scissors. In this project I created a machine learning model using the Convolution Neural Network from Tensorflow to classify Rock-Paper-Scissors data.
