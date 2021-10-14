@@ -14,14 +14,15 @@ Note that all of this data is posed against a white background.
 Each image is 300×300 pixels in 24-bit color
 
 ## Work Steps
-## Work Steps
 <ol>
-  <li>Import library</li>
+  <li>Import libraries</li>
   <li>Download and extract file</li>
   <li>Storing training and validation data sets into variables</li>
   <li>Data pre-processing using image augmentation</li>
   <li>Prepare train data</li>
   <li>Building a model architecture with CNN</li>
+  <li>Create Callbacks</li>
+  <li>Model Evaluate</li>
   <li>Plotting accuracy and loss</li>
   <li>Predict image</li>
 </ol>  
