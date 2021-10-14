@@ -27,6 +27,11 @@ Each image is 300×300 pixels in 24-bit color
   <li>Predict image</li>
 </ol>  
 
+## Model Evaluate
+We achieved 97,66% accuracy on training set and 97,85% accuracy on validation set.
+![acc_train](images/acc_train.JPG)
+![acc_val](images/acc_val.JPG)
+
 ## Visualize Accuracy and Loss 
 ![training and loss metrics](images/accuracy_loss.JPG)
 
