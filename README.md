@@ -1,6 +1,6 @@
 <h1 align="center"> Rock-Paper-Scissors Classifier </h1>
 <p align="center">
-    <img src="images/rps.png" width="600">
+    <img src="images/rps.png" width="600" height="500">
 </p>
 
 ## Overview
@@ -12,3 +12,24 @@ Rock Paper Scissors contains images from a variety of different hands, from diff
 
 Note that all of this data is posed against a white background.
 Each image is 300×300 pixels in 24-bit color
+
+## Work Steps
+## Work Steps
+<ol>
+  <li>Import library</li>
+  <li>Download and extract file</li>
+  <li>Storing training and validation data sets into variables</li>
+  <li>Data pre-processing using image augmentation</li>
+  <li>Prepare train data</li>
+  <li>Building a model architecture with CNN</li>
+  <li>Plotting accuracy and loss</li>
+  <li>Predict image</li>
+</ol>  
+
+## Visualize Accuracy and Loss 
+![training and loss metrics](images/accuracy_loss.JPG)
+
+## Predict Model
+<p align="left">
+    <img src="images/predict.JPG" width="450">
+</p>
