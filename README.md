@@ -1,6 +1,6 @@
 <h1 align="center"> Rock-Paper-Scissors Classifier </h1>
 <p align="center">
-    <img src="images/rps.png" width="600" height="500">
+    <img src="images/rps.png" width="600" height="400">
 </p>
 
 ## Overview
@@ -31,5 +31,5 @@ Each image is 300×300 pixels in 24-bit color
 
 ## Predict Model
 <p align="left">
-    <img src="images/predict.JPG" width="450">
+    <img src="images/predict.JPG" width="400">
 </p>
